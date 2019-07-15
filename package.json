@@ -1,0 +1,23 @@
+{
+  "name": "memo-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "saissei<tariraritarara.214@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^1.2.0",
+    "@types/config": "^0.0.34",
+    "botbuilder-adapter-slack": "^1.0.3",
+    "botkit": "^4.0.2",
+    "config": "^3.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nodemon": "^2.4.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-typescript": "^5.0.1",
+    "rimraf": "^2.6.3",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
